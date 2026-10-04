@@ -17,6 +17,121 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🎮 Game Setup & Configuration
+<table>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 11-59-59.png" alt="Setup Screen" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 12-00-05.png" alt="Player Configuration" width="400"/></td>
+  </tr>
+</table>
+
+### 🎯 Host Control Room
+<table>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-13-33.png" alt="Host Dashboard" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-13-42.png" alt="Host Controls" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-11.png" alt="Turn Management" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-18.png" alt="Round Progress" width="400"/></td>
+  </tr>
+</table>
+
+### 🧩 Round 1: Crossword Challenge
+<table>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-24.png" alt="Crossword Puzzle" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-42.png" alt="Crossword Clues" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-47.png" alt="Letter Hints" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-01.png" alt="Answer Verification" width="400"/></td>
+  </tr>
+</table>
+
+### 🎲 Round 2: Spelling Cube
+<table>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-05.png" alt="Letter Grid" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-31.png" alt="Word Formation" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-38.png" alt="Board Placement" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-54.png" alt="Scoring Display" width="400"/></td>
+  </tr>
+</table>
+
+### 🏆 Round 3: Final Challenge
+<table>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-16-27.png" alt="Final Round Setup" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-16-38.png" alt="Target Score Display" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-16-46.png" alt="Finalist Tracking" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-19-26.png" alt="Elimination Status" width="400"/></td>
+  </tr>
+</table>
+
+### 📺 Display & Scoreboard
+<table>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-19-35.png" alt="Stage Display" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-19-58.png" alt="Live Scoreboard" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-20-02.png" alt="Board Visualization" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-20-40.png" alt="Player Stats" width="400"/></td>
+  </tr>
+</table>
+
+### 📋 Audit Trail & Management
+<table>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-20-43.png" alt="Audit Log" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-21-21.png" alt="Action History" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-21-28.png" alt="Session Management" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-21-51.png" alt="Player Management" width="400"/></td>
+  </tr>
+</table>
+
+### 🎨 Additional Features
+<table>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-21-54.png" alt="Hint System" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-22-11.png" alt="Timer Display" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-22-16.png" alt="Settings Panel" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-22-37.png" alt="Grade Band Config" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-22-41.png" alt="Real-time Updates" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-08.png" alt="Dictionary View" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-12.png" alt="Word Validation" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-14.png" alt="Score Calculation" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-17.png" alt="Responsive UI" width="400"/></td>
+    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-20.png" alt="Mobile View" width="400"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="Screenshots/Screenshot from 2026-10-04 13-23-42.png" alt="Game Complete" width="400"/></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🎯 Overview
 
 Scrabble Game Show is a **production-ready, real-time game show platform** designed for educational venues, competitions, and live events. Host controls the show from a tablet while contestants and audiences watch on stage displays — all synchronized in real-time over WebSockets.
