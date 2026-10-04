@@ -22,111 +22,73 @@
 <div align="center">
 
 ### 🎮 Game Setup & Configuration
-<table>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 11-59-59.png" alt="Setup Screen" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 12-00-05.png" alt="Player Configuration" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0; white-space: nowrap;">
+  <img src="Screenshots/Screenshot from 2026-10-04 11-59-59.png" alt="Setup Screen" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 12-00-05.png" alt="Player Configuration" height="240"/>
+</div>
 
 ### 🎯 Host Control Room
-<table>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-13-33.png" alt="Host Dashboard" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-13-42.png" alt="Host Controls" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-11.png" alt="Turn Management" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-18.png" alt="Round Progress" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0; white-space: nowrap;">
+  <img src="Screenshots/Screenshot from 2026-10-04 13-13-33.png" alt="Host Dashboard" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-13-42.png" alt="Host Controls" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-14-11.png" alt="Turn Management" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-14-18.png" alt="Round Progress" height="240"/>
+</div>
 
 ### 🧩 Round 1: Crossword Challenge
-<table>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-24.png" alt="Crossword Puzzle" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-42.png" alt="Crossword Clues" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-14-47.png" alt="Letter Hints" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-01.png" alt="Answer Verification" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0; white-space: nowrap;">
+  <img src="Screenshots/Screenshot from 2026-10-04 13-14-24.png" alt="Crossword Puzzle" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-14-42.png" alt="Crossword Clues" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-14-47.png" alt="Letter Hints" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-15-01.png" alt="Answer Verification" height="240"/>
+</div>
 
 ### 🎲 Round 2: Spelling Cube
-<table>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-05.png" alt="Letter Grid" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-31.png" alt="Word Formation" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-38.png" alt="Board Placement" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-15-54.png" alt="Scoring Display" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0; white-space: nowrap;">
+  <img src="Screenshots/Screenshot from 2026-10-04 13-15-05.png" alt="Letter Grid" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-15-31.png" alt="Word Formation" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-15-38.png" alt="Board Placement" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-15-54.png" alt="Scoring Display" height="240"/>
+</div>
 
 ### 🏆 Round 3: Final Challenge
-<table>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-16-27.png" alt="Final Round Setup" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-16-38.png" alt="Target Score Display" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-16-46.png" alt="Finalist Tracking" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-19-26.png" alt="Elimination Status" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0; white-space: nowrap;">
+  <img src="Screenshots/Screenshot from 2026-10-04 13-16-27.png" alt="Final Round Setup" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-16-38.png" alt="Target Score Display" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-16-46.png" alt="Finalist Tracking" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-19-26.png" alt="Elimination Status" height="240"/>
+</div>
 
 ### 📺 Display & Scoreboard
-<table>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-19-35.png" alt="Stage Display" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-19-58.png" alt="Live Scoreboard" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-20-02.png" alt="Board Visualization" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-20-40.png" alt="Player Stats" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0; white-space: nowrap;">
+  <img src="Screenshots/Screenshot from 2026-10-04 13-19-35.png" alt="Stage Display" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-19-58.png" alt="Live Scoreboard" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-20-02.png" alt="Board Visualization" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-20-40.png" alt="Player Stats" height="240"/>
+</div>
 
 ### 📋 Audit Trail & Management
-<table>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-20-43.png" alt="Audit Log" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-21-21.png" alt="Action History" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-21-28.png" alt="Session Management" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-21-51.png" alt="Player Management" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0; white-space: nowrap;">
+  <img src="Screenshots/Screenshot from 2026-10-04 13-20-43.png" alt="Audit Log" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-21-21.png" alt="Action History" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-21-28.png" alt="Session Management" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-21-51.png" alt="Player Management" height="240"/>
+</div>
 
 ### 🎨 Additional Features
-<table>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-21-54.png" alt="Hint System" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-22-11.png" alt="Timer Display" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-22-16.png" alt="Settings Panel" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-22-37.png" alt="Grade Band Config" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-22-41.png" alt="Real-time Updates" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-08.png" alt="Dictionary View" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-12.png" alt="Word Validation" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-14.png" alt="Score Calculation" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-17.png" alt="Responsive UI" width="400"/></td>
-    <td><img src="Screenshots/Screenshot from 2026-10-04 13-23-20.png" alt="Mobile View" width="400"/></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="Screenshots/Screenshot from 2026-10-04 13-23-42.png" alt="Game Complete" width="400"/></td>
-  </tr>
-</table>
+<div style="display: flex; overflow-x: auto; gap: 12px; padding: 10px 0; white-space: nowrap;">
+  <img src="Screenshots/Screenshot from 2026-10-04 13-21-54.png" alt="Hint System" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-22-11.png" alt="Timer Display" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-22-16.png" alt="Settings Panel" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-22-37.png" alt="Grade Band Config" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-22-41.png" alt="Real-time Updates" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-23-08.png" alt="Dictionary View" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-23-12.png" alt="Word Validation" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-23-14.png" alt="Score Calculation" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-23-17.png" alt="Responsive UI" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-23-20.png" alt="Mobile View" height="240"/>
+  <img src="Screenshots/Screenshot from 2026-10-04 13-23-42.png" alt="Game Complete" height="240"/>
+</div>
 
 </div>
 
